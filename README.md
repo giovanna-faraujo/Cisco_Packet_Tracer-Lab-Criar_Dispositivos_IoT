@@ -6,7 +6,8 @@ Neste laboratório educacional, utilizei o **Cisco Packet Tracer** para personal
 
 O exercício ajuda a entender como dispositivos inteligentes podem ser identificados, conectados e organizados em uma rede simulada.
 
-<img width="2760" height="2680" alt="topologia_casa_IoT" src="https://github.com/user-attachments/assets/03b1b795-54a7-4494-854b-62dc0fc66c5e" />
+
+<img width="922" height="657" alt="image" src="https://github.com/user-attachments/assets/778aab77-4fce-4f3f-bd83-05ed40b74065" />
 
 
 ---
