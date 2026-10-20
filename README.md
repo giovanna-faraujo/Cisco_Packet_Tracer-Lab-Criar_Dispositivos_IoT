@@ -128,4 +128,4 @@ Esses conceitos se relacionam com atividades de **Suporte de TI**, **Redes** e *
 
 - Material de estudo fornecido: *Cisco Packet Tracer - Criar Dispositivo IoT*.
 
-> Laboratório educacional realizado no contexto de aprendizagem da Cisco Networking Academy. O cenário da loja é fictício e não representa experiência profissional real.
+> Laboratório educacional realizado no contexto de aprendizagem da Cisco Networking Academy.
