@@ -121,11 +121,3 @@ Esses conceitos se relacionam com atividades de **Suporte de TI**, **Redes** e *
 | Ping | Teste simples para verificar se outro dispositivo responde pela rede. |
 | Sub-rede | Grupo de endereços de uma mesma rede. |
 | Template | Modelo salvo para ser utilizado novamente sem repetir toda a configuração. |
-
----
-
-## Referência
-
-- Material de estudo fornecido: *Cisco Packet Tracer - Criar Dispositivo IoT*.
-
-> Laboratório educacional realizado no contexto de aprendizagem da Cisco Networking Academy.
