@@ -6,7 +6,9 @@ Neste laboratório educacional, utilizei o **Cisco Packet Tracer** para personal
 
 O exercício ajuda a entender como dispositivos inteligentes podem ser identificados, conectados e organizados em uma rede simulada.
 
-![Uploading Infográfico de Laboratório IoT Wireless.png…]()
+
+<img width="1536" height="1024" alt="Infográfico de Laboratório IoT Wireless" src="https://github.com/user-attachments/assets/901ae2b6-c060-46dc-a55f-0db4dc55d7b0" />
+
 
 ---
 
